@@ -1,6 +1,6 @@
 # Web2
 Descrição do projeto:
-Visando os traumas causados até hoje pela pandemia, pensamos em criar um site ajudando as pessoas a tratarem de sua saúde mental, facilitando acesso a consultas presenciais e onlines com psicologos preparados.
+Nosso projeto é voltado para a criação de postagem, onde os usuarios poderão postar o que sentirem, como se fosse uma rede social antiga, como era o orkut.
 
 Dependências usadas:
 Mysql,
