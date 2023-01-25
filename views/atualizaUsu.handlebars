@@ -1,0 +1,23 @@
+
+            <form action="/atualizaUsu/:id" method="POST">
+                
+                        <h1>Alterar Dados</h1>
+						
+                        <input id="id" type="hidden" name="id" placeholder="ID" required value="{{id}}">
+
+                        <label for="nome">Nome Completo</label>
+                        <input id="nome" type="text" name="nome" placeholder="Digite seu nome completo" required >
+                  
+                        <label for="email">Email</label>
+                        <input id="email" type="text" name="email" placeholder="Digite seu email" required>
+           
+                        <label for="login">Login</label>
+                        <input id="login" type="text" name="login" placeholder="Digite um nome para login" required>
+                 
+                   
+                        <label for="password">Senha</label>
+                        <input id="password" type="password" name="senha" placeholder="Digite sua senha" minlength="8" maxlength="20" required>
+
+                <div class="continue-button">
+                    <button type="submit">Continuar</button>
+                </div>

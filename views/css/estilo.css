@@ -1,0 +1,41 @@
+body{background-color: lightblue; font-size: 14px;
+    line-height: 20px;
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #000000;
+    text-align: center;}
+div.topo{
+    background-color: #000333e8;
+    font-size: 30px;
+    text-align:right;
+    font-weight:bold;
+    color: white;
+    padding: 8px;
+}
+.sub{
+    color: white;
+    font-weight:normal;
+    font-size: 10px;
+    margin: 10px;
+}
+div.corpo{
+    position: fixed;
+    font-size: 18px;
+}
+
+div.rodape{
+	position: fixed;
+	font-size: 16px;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #000333e8;
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
+.listahome{
+    padding: 50px;
+    font-weight:bold;
+    
+}
